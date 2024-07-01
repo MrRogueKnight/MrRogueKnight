@@ -57,12 +57,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRogueKnight&" alt="MrRogueKnight" /></p>
 
 </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRogueKnight&" alt="MrRogueKnight" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRogueKnight&show_icons=true&locale=en&layout=compact" alt="MrRogueKnight" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrRogueKnight&show_icons=true&locale=en" alt="MrRogueKnight" /></p>
 <!-- Stats Ends -->
 

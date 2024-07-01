@@ -12,6 +12,12 @@
 </div>
 <!-- Introduction -->
 
+<!-- Trophy -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=dracula&column=3&row=1&margin-w=8&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<!-- Trophy -->
+
 <!-- About -->
 - 🌱 I’m currently learning **C,C++,Python,DSA**
 
@@ -76,6 +82,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRogueKnight&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <!-- Objects -->
+
 
 <!-- Tip -->
 <h3 align="left">Tip:</h3>

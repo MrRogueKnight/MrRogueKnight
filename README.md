@@ -14,7 +14,7 @@
 
 <!-- About -->
 <h3 align="left">About me:</h3>
-- 🌱 I’m currently learning **C,C++,Python,DSA**
+- 🌱 I’m currently learning  C,C++,Python,DSA 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrRogueKnight](https://github.com/MrRogueKnight)
 

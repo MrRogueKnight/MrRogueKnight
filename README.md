@@ -4,7 +4,6 @@
 </div>
 <!-- Banner -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
 
 <!-- Introduction -->
 <br clear="both">
@@ -13,6 +12,8 @@
 <h3 align="center">✪ Mr Rogue Knight | Prashant</h3>
 </div>
 <!-- Introduction -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
 
 <!-- About -->
 <h3 align="left">About me:</h3>

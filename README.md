@@ -83,13 +83,15 @@
 <!-- Streak -->
 
 
-<!-- Tip -->
-<h3 align="left">Tip:</h3>
-<p><a href="https://www.buymeacoffee.com/MrRogueKnight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MrRogueKnight" /></a><a href="https://ko-fi.com/MrRogueKnight"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MrRogueKnight" /></a></p><br><br>
-<!-- Tip -->
 
 <!-- Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRogueKnight&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <!-- Graph -->
+
+<!-- Tip -->
+<h3 align="left">Tip:</h3>
+<p><a href="https://www.buymeacoffee.com/MrRogueKnight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MrRogueKnight" /></a><a href="https://ko-fi.com/MrRogueKnight"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MrRogueKnight" /></a></p><br><br>
+<!-- Tip -->
+

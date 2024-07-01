@@ -13,8 +13,6 @@
 </div>
 <!-- Introduction -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
-
 <!-- About -->
 <h3 align="left">About me:</h3>
 - 🌱 I’m currently learning  C,C++,Python,DSA 
@@ -27,6 +25,9 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/MrRogueKnight](https://linkedin.com/in/MrRogueKnight)
 <!-- About -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
+
 
 <!-- Trophy -->
 <h3 align="left">Trophy:</h3>

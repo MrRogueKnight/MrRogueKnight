@@ -25,6 +25,7 @@
 <!-- About -->
 
 <!-- Trophy -->
+<h3 align="left">Trophy:</h3>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=dracula&column=3&row=1&margin-w=8&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -77,6 +78,7 @@
 <!-- Social Media -->
 
 <!-- Streak -->
+<h3 align="left">Streak:</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=MrRogueKnight&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -85,7 +87,7 @@
 
 
 <!-- Graph -->
-<h3 align="left">Contribution Graph:</h3>
+<h3 align="left">My Contribution Graph:</h3>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRogueKnight&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

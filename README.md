@@ -23,6 +23,7 @@
 ## 🖥️ Workspace
 **Android, Windows, Linux, MacOS,**
 **Visual Studio Code, Visual Studio, PyCharm, IntelliJ IDEA, JupyterLab, CodeBlocks, Turbo C++**
+
 ## 🏆 Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=discord&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -41,8 +42,7 @@
 
 ## 😎 My Contribution
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRogueKnight&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-<img src="https://raw.githubusercontent.com/MrRogueKnight/MrRogueKnight/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MrRogueKnight/MrRogueKnight/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ## 🤝Social🌐

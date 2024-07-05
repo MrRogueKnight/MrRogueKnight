@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/MrRogueKnight/MrRogueKnight/output/snake.svg" alt="Snake animation"/>
 </div>
 
-## 🤝Social🌐
+## 🤝Let's Connect🌐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
 <p align="left">
 <a href="https://codepen.io/MrRogueKnight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrRogueKnight" height="30" width="40" /></a>

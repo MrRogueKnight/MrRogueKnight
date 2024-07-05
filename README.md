@@ -1,13 +1,7 @@
-<div align="center">
-  <img height="150" src="https://yt3.googleusercontent.com/CmxS3QrNCcJ4JHGq9P5FeOW6ufbsmJrDhVndeIdh0hgFPQ25vm66aflCgmUAKnajc-rbtPrKHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
-</div>
-<br clear="both">
-<div align="center">
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> I'm Prashant </h1>
-</div> 
+<div align="center"><img height="150" src="https://yt3.googleusercontent.com/CmxS3QrNCcJ4JHGq9P5FeOW6ufbsmJrDhVndeIdh0hgFPQ25vm66aflCgmUAKnajc-rbtPrKHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/></div>
 
-## 🙋‍♂️ About Me
-- 🌱 I’m currently learning  C,C++,Python,DSA 
+## 🙋‍♂️ About Me  
+- 🌱 I’m currently learning  C,C++,Python,DSA
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrRogueKnight](https://github.com/MrRogueKnight)
 
@@ -22,8 +16,7 @@
 
 
 ## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=discord&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center"><img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=discord&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ## 📝Content
@@ -33,7 +26,7 @@
 
 ## 🔥Streak
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=MrRogueKnight&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=MrRogueKnight&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 ## 😎 My Contribution

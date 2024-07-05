@@ -1,17 +1,10 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://yt3.googleusercontent.com/CmxS3QrNCcJ4JHGq9P5FeOW6ufbsmJrDhVndeIdh0hgFPQ25vm66aflCgmUAKnajc-rbtPrKHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
- <div align="center">
+<div align="center">
   <img height="150" src="https://yt3.googleusercontent.com/CmxS3QrNCcJ4JHGq9P5FeOW6ufbsmJrDhVndeIdh0hgFPQ25vm66aflCgmUAKnajc-rbtPrKHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
 </div>
-</picture>
-
-
-
 <br clear="both">
 <div align="center">
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Prashant Ranjan</h1>
 </div>
-
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning  C,C++,Python,DSA 
 
@@ -27,7 +20,6 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=dracula&column=3&row=1&margin-w=8&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
 ## 👨🏻‍💻🛠️ My Skills
 **Started learning C,C++,Python**
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>

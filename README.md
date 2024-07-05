@@ -23,7 +23,7 @@
 
 ## 🏆 Achievements
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=dracula&column=3&row=1&margin-w=8&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=discord&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ## 🖥️ Workspace

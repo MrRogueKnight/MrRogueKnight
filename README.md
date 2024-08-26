@@ -8,7 +8,7 @@
 
 - 📝 **Articles:** My articles are like secret scrolls—so riveting that they’ve been known to cure insomnia. Find them on my [Linktree](https://linktr.ee/MrRogueKnight).
 
-- 📫 **Contact:** [Primary Email](Rogue@outlook.in), [Secondary Email](PrashantRanjan0402@gmail.com), [My College Email](24MC3035@rgipt.ac.in) or Email me at MrRogueKnight@engineer.com
+- 📫 **Contact:** [Primary_Email](Rogue@outlook.in), [Secondary_Email](PrashantRanjan0402@gmail.com), [My_College_Email](24MC3035@rgipt.ac.in) or Email me at MrRogueKnight@engineer.com
 
 - 📞 **Phone:** Text or call me at +91 7307192171
 

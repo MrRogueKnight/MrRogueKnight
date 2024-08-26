@@ -8,11 +8,11 @@
 
 - 📝 I regularly write articles on [https://linktr.ee/MrRogueKnight](https://linktr.ee/MrRogueKnight)
 
-- 📫 How to reach me **MrRogueKnight@engineer.com** or **24MC3035@rgipt.ac.in** or **PrashantRanjan0402@gmail.com** or **Rogue@outlook.in** or **Phone: 7307192171**
+- 📫 How to reach me **MrRogueKnight@engineer.com** or **24MC3035@rgipt.ac.in** or **PrashantRanjan0402@gmail.com** or **Rogue@outlook.in** or **Text/Call: 7307192171**
 
 - 📄 Know about my experiences [https://linkedin.com/in/MrRogueKnight](https://linkedin.com/in/MrRogueKnight)
   
-- 🙋‍♂️ I am a student of Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology, Amethi. In short [RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/). I am interested in Data Science,  Machine Learning, and Artificial Intelligence. I am here to learn and share my work with you all.
+- 🙋‍♂️ I am a student of Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology, Amethi. In short [RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/). I am interested in Data Science,  Machine Learning, and Artificial Intelligence.
 
 - 👨‍🎓 I am here to learn and share my work with you all. 
 

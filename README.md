@@ -2,19 +2,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning  C,C++,Python,DSA, I am currently working in my Lab - My Lab -Lab A (CS101-LabA) you can find my codes in my 'C' repository.
+- 🌱 **Learning:** Currently mastering the art of C, C++, Python, and data structures. My codes resides in my repositories (which is basically my digital hat)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrRogueKnight](https://github.com/MrRogueKnight)
+- 👨‍💻 **Projects:** Behold my GitHub feats! GitHub is where I wield my code sword against bugs and tame unruly algorithms.
 
-- 📝 I regularly write articles on [https://linktr.ee/MrRogueKnight](https://linktr.ee/MrRogueKnight)
+- 📝 **Articles:** My articles are like secret scrolls—so riveting that they’ve been known to cure insomnia. Find them on my [Linktree]https://linktr.ee/MrRogueKnight).
 
-- 📫 How to reach me **MrRogueKnight@engineer.com** or **24MC3035@rgipt.ac.in** or **PrashantRanjan0402@gmail.com** or **Rogue@outlook.in** or **Text/Call: 7307192171**
+- 📫 **Contact:** **MrRogueKnight@engineer.com** or **24MC3035@rgipt.ac.in** or **PrashantRanjan0402@gmail.com** or **Rogue@outlook.in** or **Text/Call: 7307192171**
 
-- 📄 Know about my experiences [https://linkedin.com/in/MrRogueKnight](https://linkedin.com/in/MrRogueKnight)
+- 📄 **Experience:** My journey reads like a choose-your-own-adventure novel. Flip through the pages on [LinkedIn](https://linkedin.com/in/MrRogueKnight).
   
-- 🙋‍♂️ I am a student of Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology, Amethi. In short [RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/). I am interested in Data Science,  Machine Learning, and Artificial Intelligence.
+- 🙋‍♂️ **Background:** I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Amethi. In short [RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/). My interests include Data Science, Machine Learning, and Artificial Intelligence.
 
-- 👨‍🎓 I am here to learn and share my work with you all. 
+- 👨‍🎓 **Purpose:** I’m here to learn, share, and sprinkle a dash of whimsy into the binary world!
 
 # 💻👨🏻‍💻🛠️ Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

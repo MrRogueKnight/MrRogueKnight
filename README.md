@@ -6,7 +6,7 @@
 
 - 👨‍💻 **Projects:** Behold my GitHub feats! GitHub is where I wield my code sword against bugs and tame unruly algorithms.
 
-- 📝 **Articles:** My articles are like secret scrolls—so riveting that they’ve been known to cure insomnia. Find them on my [Linktree]https://linktr.ee/MrRogueKnight).
+- 📝 **Articles:** My articles are like secret scrolls—so riveting that they’ve been known to cure insomnia. Find them on my [Linktree](https://linktr.ee/MrRogueKnight).
 
 - 📫 **Contact:** [Primary Email]Rogue@outlook.in, [Secondary Email]PrashantRanjan0402@gmail.com, [My College Email]24MC3035@rgipt.ac.in or Email me at MrRogueKnight@engineer.com
 

@@ -14,7 +14,7 @@
 
 - 📄 **Experience:** My journey reads like a choose-your-own-adventure novel. Flip through the pages on [LinkedIn](https://linkedin.com/in/MrRogueKnight).
   
-- 🙋‍♂️ **Background:** I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Amethi. In short [RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/). My interests include Data Science, Machine Learning, and Artificial Intelligence.
+- 🙋‍♂️ **Background:** I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology ([RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/)), Amethi. . My interests include Data Science, Machine Learning, and Artificial Intelligence.
 
 - 👨‍🎓 **Purpose:** I’m here to learn, share, and sprinkle a dash of whimsy into the binary world!
 

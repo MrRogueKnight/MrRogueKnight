@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 **Learning:** Currently mastering the art of C, C++, Python, and data structures. My codes resides in my repositories (which is basically my digital hat)
+- 🌱 **Learning:** Currently mastering the art of C, C++, Python, and data structures. My codes resides in my repositories (which is basically my digital hat).
 
 - 👨‍💻 **Projects:** Behold my GitHub feats! GitHub is where I wield my code sword against bugs and tame unruly algorithms.
 

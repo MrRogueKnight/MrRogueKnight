@@ -10,7 +10,7 @@
 
 - 📫 **Contact:** [Primary_Email](Rogue@outlook.in), [Secondary_Email](PrashantRanjan0402@gmail.com), [My_College_Email](24MC3035@rgipt.ac.in) or Email me at MrRogueKnight@engineer.com
 
-- 📞 **Phone:** Text or call me on +91 730719217
+- 📞 **Phone:** Text or call me on +91 7307192171.
 
 - 📄 **Experience:** My journey reads like a choose-your-own-adventure novel. Flip through the pages on [LinkedIn](https://linkedin.com/in/MrRogueKnight).
   

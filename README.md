@@ -1,5 +1,3 @@
-<div align="center"><img height="150" src="https://yt3.googleusercontent.com/CmxS3QrNCcJ4JHGq9P5FeOW6ufbsmJrDhVndeIdh0hgFPQ25vm66aflCgmUAKnajc-rbtPrKHA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/></div>
-
 ## 🙋‍♂️ About Me
 
 - 🌱 **Learning:** Currently mastering the art of C, C++, Python, and data structures. My codes resides in my repositories (which is basically my digital hat).

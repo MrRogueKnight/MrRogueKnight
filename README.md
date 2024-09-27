@@ -6,7 +6,7 @@
 
 - 📝 **Articles:** My articles are like secret scrolls—so riveting that they’ve been known to cure insomnia. Find them on my [Linktree](https://linktr.ee/MrRogueKnight).
 
-- 📫 **Contact:** [Primary_Email](Rogue@outlook.in), [Secondary_Email](PrashantRanjan0402@gmail.com), [My_College_Email](24MC3035@rgipt.ac.in) or Email me at MrRogueKnight@engineer.com
+- 📫 **Contact:** [Primary_Email](Rogue@outlook.in), [Secondary_Email](PrashantRanjan0402@gmail.com), [My_College_Email](24MC3035@rgipt.ac.in) or Email me at <MrRogueKnight@engineer.com>
 
 - 📞 **Phone:** Text or call me on +91 7307192171.
 
@@ -26,18 +26,19 @@ I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum
   To leverage my passion for coding, problem-solving, and cutting-edge technologies to make a meaningful contribution to the field of technology.
 
 - 🤔**Problem Solving:**
-  * Adept at analyzing complex challenges and developing creative solutions
-  * Logical thinker with a methodical approach to problem-solving
+  - Adept at analyzing complex challenges and developing creative solutions
+  - Logical thinker with a methodical approach to problem-solving
 
 - 💪**Dedication:**
-  * Committed to ongoing learning and professional development
-  * Passionate about expanding skill set and knowledge base
+  - Committed to ongoing learning and professional development
+  - Passionate about expanding skill set and knowledge base
 
 - 🤝**Teamwork:**
-  * Collaborative team player with excellent communication skills
-  * Adaptable and flexible in dynamic team environments  
+  - Collaborative team player with excellent communication skills
+  - Adaptable and flexible in dynamic team environments  
 
-# 💻👨🏻‍💻🛠️ Tech Stack:
+# 💻👨🏻‍💻🛠️ Tech Stack
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,27 +56,31 @@ I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-
 ## 🏆 Achievements
+
 <div align="center"><img src="https://github-profile-trophy.vercel.app?username=MrRogueKnight&theme=discord&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ## 📝Content
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRogueKnight&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
 ## 🔥Streak
+
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=MrRogueKnight&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 ## 😎 My Contribution
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/MrRogueKnight/MrRogueKnight/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ## 🤝Let's Connect🌐
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=Profile%20views&color=0e75b6&style=flat" alt="mrrogueknight" /> </p>
 <p align="left">
 <a href="https://codepen.io/MrRogueKnight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="MrRogueKnight" height="30" width="40" /></a>

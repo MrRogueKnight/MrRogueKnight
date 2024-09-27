@@ -10,17 +10,17 @@
 
 - 📞 **Phone:** Text or call me on +91 7307192171.
 
-- 📄 **Experience:** My journey reads like a choose-your-own-adventure novel. Flip through the pages on [LinkedIn](https://linkedin.com/in/MrRogueKnight).
-  
-- 🙋‍♂️ **Background:** I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology ([RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/)), Amethi. . My interests include Data Science, Machine Learning, and Artificial Intelligence.
-
-- 👨‍🎓 **Purpose:** I’m here to learn, share, and sprinkle a dash of whimsy into the binary world!
-
-- 💻**Programming Skills** - Self-taught programmer **(2017-Present)**
+- 📄💻 **Experience & Programming Skills** My journey reads like a choose-your-own-adventure novel. Flip through the pages on [LinkedIn](https://linkedin.com/in/MrRogueKnight).
+  -Self-taught programmer **(2017-Present)**
   - *Expert:* C, C++, Python Core, Swift 4
   - *Proficient:* C#, JavaScript, CSS, SQL
   - *Familiar:* PHP, Ruby, jQuery, QBasic, Visual Basic (VB), HTML
   - *Operating Systems:* Windows (Microsoft), macOS (Apple), Linux (various distributions like Ubuntu, Debian, Linux Mint, Kali Linux, Fedora, Tails, Kodachi, Parrot Security OS, Zorin, etc)
+  
+- 🙋‍♂️ **Background:** I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology ([RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/)), Amethi. . My interests include Data Science, Machine Learning, and Artificial Intelligence.
+
+- 🔥**Objective:**
+  To leverage my passion for coding, problem-solving, and cutting-edge technologies to make a meaningful contribution to the field of technology.
 
 - 🤔**Problem Solving**
   + Adept at analyzing complex challenges and developing creative solutions
@@ -32,10 +32,7 @@
 
 - 🤝**Teamwork**
   + Collaborative team player with excellent communication skills
-  + Adaptable and flexible in dynamic team environments
-
-- 🔥**Objective:**
-  To leverage my passion for coding, problem-solving, and cutting-edge technologies to make a meaningful contribution to the field of technology.  
+  + Adaptable and flexible in dynamic team environments  
 
 # 💻👨🏻‍💻🛠️ Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

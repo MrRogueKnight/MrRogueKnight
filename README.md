@@ -37,7 +37,7 @@ I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum
   - Collaborative team player with excellent communication skills
   - Adaptable and flexible in dynamic team environments  
 
-# 💻👨🏻‍💻🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

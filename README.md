@@ -105,7 +105,3 @@ I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum
 <a href="https://www.topcoder.com/members/MrRogueKnight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="MrRogueKnight" height="30" width="40" /></a>
 <a href="https://MrRogueKnight.substack.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://MrRogueKnight.substack.com/" height="30" width="40" /></a>
 </p>
-
-<!-- ## 👌Tip
-<p><a href="https://www.buymeacoffee.com/MrRogueKnight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MrRogueKnight" /></a><a href="https://ko-fi.com/MrRogueKnight"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MrRogueKnight" /></a></p><br><br> 
--->

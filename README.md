@@ -1,4 +1,4 @@
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 - 🌱 **Learning:** Currently mastering the art of C, C++, Python, and data structures. My codes resides in my repositories (which is basically my digital hat).
 

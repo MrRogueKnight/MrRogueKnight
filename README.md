@@ -16,6 +16,27 @@
 
 - 👨‍🎓 **Purpose:** I’m here to learn, share, and sprinkle a dash of whimsy into the binary world!
 
+- 💻**Programming Skills** - Self-taught programmer **(2017-Present)**
+  - *Expert:* C, C++, Python Core, Swift 4
+  - *Proficient:* C#, JavaScript, CSS, SQL
+  - *Familiar:* PHP, Ruby, jQuery, QBasic, Visual Basic (VB), HTML
+  - *Operating Systems:* Windows (Microsoft), macOS (Apple), Linux (various distributions like Ubuntu, Debian, Linux Mint, Kali Linux, Fedora, Tails, Kodachi, Parrot Security OS, Zorin, etc)
+
+- 🤔**Problem Solving**
+  + Adept at analyzing complex challenges and developing creative solutions
+  + Logical thinker with a methodical approach to problem-solving
+
+- 💪**Dedication**
+  + Committed to ongoing learning and professional development
+  + Passionate about expanding skill set and knowledge base
+
+- 🤝**Teamwork**
+  + Collaborative team player with excellent communication skills
+  + Adaptable and flexible in dynamic team environments
+
+- 🔥**Objective:**
+  To leverage my passion for coding, problem-solving, and cutting-edge technologies to make a meaningful contribution to the field of technology.  
+
 # 💻👨🏻‍💻🛠️ Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

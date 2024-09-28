@@ -20,7 +20,7 @@ My journey reads like a choose-your-own-adventure novel. Flip through the pages 
   - *Operating Systems:* Windows (Microsoft), macOS (Apple), Linux (various distributions like Ubuntu, Debian, Linux Mint, Kali Linux, Fedora, Tails, Kodachi, Parrot Security OS, Zorin, etc)
   
 - 📖**Background:**
-I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology ([RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/)), Amethi. . My interests include Data Science, Machine Learning, and Artificial Intelligence.
+I’m a Mathematics and Computing student at Rajiv Gandhi Institute of Petroleum Technology ([RGIPT](https://www.collegepravesh.com/engineering-colleges/rgipt-amethi/)), Amethi. My interests include Data Science, Machine Learning, and Artificial Intelligence.
 
 - 🔥**Objective:**
   To leverage my passion for coding, problem-solving, and cutting-edge technologies to make a meaningful contribution to the field of technology.

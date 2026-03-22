@@ -16,7 +16,7 @@
   </h1>
   <h3 style="margin: 0; color: #6B7280;">⚡ AI/ML Engineer | Mathematics & Computing</h3>
   
-  <!-- Achievement Badges - Readable colors -->
+  <!-- Achievement Badges -->
   <div style="margin: 12px 0;">
     <img src="https://img.shields.io/badge/SIH_2025_WINNER-ISRO-EF4444?style=flat-square&logo=spacex&logoColor=white" />
     <img src="https://img.shields.io/badge/Top_10%25-IIT_Guwahati-F59E0B?style=flat-square" />
@@ -62,28 +62,27 @@
       <td style="padding: 8px 16px;"><a href="#-github-analytics" style="color: #60A5FA;">📈 Stats</a></td>
       <td style="padding: 8px 16px;"><a href="#-writing" style="color: #60A5FA;">✍️ Writing</a></td>
     </tr>
-  </table>
+   </table>
 </div>
 
 ---
+
 ## 🎯 About Me
 
 <div align="center">
   <table style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); border-radius: 24px; padding: 40px; border: 1px solid rgba(59,130,246,0.3);">
-    <tr>
+     <tr>
       <td valign="top" style="border: none;">
-        <!-- Animated Intro -->
         <div align="center">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Prashant+Ranjan;AI%2FML+Engineer;Mathematics+%26+Computing;Building+Intelligent+Systems" alt="Typing Animation" />
         </div>
-        <!-- Main Bio -->
         <p align="center" style="color: #E2E8F0; font-size: 16px; line-height: 1.8; margin: 32px 0 24px 0; max-width: 800px;">
           Mathematics & Computing undergraduate at RGIPT, building intelligent systems at the intersection of 
           <strong style="color: #60A5FA;">mathematical rigor</strong> and <strong style="color: #60A5FA;">applied machine learning</strong>
         </p>
-       </td>
-     </tr>
-   </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -133,8 +132,8 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
-2. 💪 Opened PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
+<!-- This section is automatically updated by GitHub Actions -->
+<!-- Your latest GitHub activity will appear here -->
 <!--END_SECTION:activity-->
 
 <div align="center">
@@ -209,6 +208,7 @@
   <img src="https://github.com/MrRogueKnight/MrRogueKnight/actions/workflows/update-readme.yml/badge.svg" alt="Workflow Status"/>
   <img src="https://img.shields.io/github/last-commit/MrRogueKnight/MrRogueKnight?style=flat-square&color=3B82F6" alt="Last Commit"/>
   <img src="https://komarev.com/ghpvc/?username=mrrogueknight&label=👀%20PROFILE%20VIEWS&color=3B82F6&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/🔄_AUTO_UPDATED-every_30_min-10B981?style=flat-square" alt="Auto Update"/>
 </div>
 
 ---
@@ -221,5 +221,7 @@
   <br/>
   <b style="color: #E2E8F0;">✦ Mathematics as foundation. AI as tool. Impact as the goal. ✦</b>
   <br/>
-  <sub style="color: #6B7280;"><i>Last updated: Automatically refreshed every 30 minutes via GitHub Actions</i></sub>
+  <sub style="color: #6B7280;"><i>Last updated: Automatically refreshed every 30 minutes</i></sub>
+  <br/>
+  <sub style="color: #6B7280;">⭐ If you like this profile, consider starring the repo!</sub>
 </div>

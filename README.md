@@ -127,12 +127,17 @@
 
 ## 📊 GitHub Activity
 
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_RECENT_ACTIVITY-3B82F6?style=for-the-badge" />
+  <br/><br/>
+</div>
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
-2. 💪 Opened PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
 <!--END_SECTION:activity-->
 
-*[Updates every 30 minutes — shows issues, pull requests, comments, and releases]*
+<div align="center">
+  <sub>⚡ Shows my latest contributions to open source</sub>
+</div>
 
 ---
 

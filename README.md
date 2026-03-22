@@ -132,13 +132,7 @@
 <!-- Your latest GitHub activity will appear here -->
 <!--END_SECTION:activity-->
 
-<div align="center">
-  <details>
-    <summary><b style="color: #60A5FA;">🔄 Live Activity Feed</b> — <i style="color: #9CA3AF;">Updates every 30 minutes</i></summary>
-    <br/>
-    <sub style="color: #6B7280;">✨ Shows issues, pull requests, comments, and releases</sub>
-  </details>
-</div>
+*[Updates every 30 minutes — shows issues, pull requests, comments, and releases]*
 
 ---
 

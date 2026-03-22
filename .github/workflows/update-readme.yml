@@ -7,7 +7,6 @@ on:
 
 jobs:
   build:
-    name: Update README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write

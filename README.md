@@ -165,14 +165,14 @@
 
 ## 📊 GitHub Activity
 
+<!--START_SECTION:activity-->
+<!-- This section is automatically updated by GitHub Actions -->
+<!-- Your latest GitHub activity will appear here -->
+<!--END_SECTION:activity-->
+
 <div align="center">
-  <details open>
+  <details>
     <summary><b style="color: #60A5FA;">🔄 Live Activity Feed</b> — <i style="color: #9CA3AF;">Updates every 30 minutes</i></summary>
-    <br/>
-    <!--START_SECTION:activity-->
-    <!-- This section is automatically updated by GitHub Actions -->
-    <!-- Your latest GitHub activity will appear here -->
-    <!--END_SECTION:activity-->
     <br/>
     <sub style="color: #6B7280;">✨ Shows issues, pull requests, comments, and releases</sub>
   </details>

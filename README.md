@@ -66,60 +66,22 @@
 </div>
 
 ---
-
 ## 🎯 About Me
 
 <div align="center">
-  <table style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); border-radius: 24px; padding: 28px; border: 1px solid rgba(59,130,246,0.25);">
+  <table style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); border-radius: 24px; padding: 40px; border: 1px solid rgba(59,130,246,0.3);">
     <tr>
       <td valign="top" style="border: none;">
-         <!-- Education -->
-        <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;">
-          <span style="background: #1E293B; padding: 6px 16px; border-radius: 40px; color: #60A5FA; font-size: 14px;">
-            🎓 B.Tech · Mathematics & Computing
-          </span>
-          <span style="background: #1E293B; padding: 6px 16px; border-radius: 40px; color: #94A3B8; font-size: 14px;">
-            🏛️ RGIPT, Amethi · 2024 — 2028
-          </span>
+        <!-- Animated Intro -->
+        <div align="center">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Prashant+Ranjan;AI%2FML+Engineer;Mathematics+%26+Computing;Building+Intelligent+Systems" alt="Typing Animation" />
         </div>
-        <!-- Bio Text -->
-        <div style="margin-bottom: 24px;">
-          <p style="color: #E2E8F0; line-height: 1.6; font-size: 15px;">
-            Building intelligent systems at the intersection of <strong style="color: #60A5FA;">mathematics</strong> and 
-            <strong style="color: #60A5FA;">machine learning</strong>. Winner of <strong>Smart India Hackathon 2025 (ISRO)</strong> 
-            and ranked <strong>Top 10% globally</strong> at IIT Guwahati's Summer Analytics.
-          </p>
-        </div>
-      <!-- Technical Focus Cards -->
-        <div style="display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 24px;">
-          <div style="flex: 1; background: #0F172A; border-radius: 16px; padding: 16px; border-left: 3px solid #3B82F6;">
-            <div style="font-size: 24px; margin-bottom: 8px;">🔬</div>
-            <div style="font-weight: 600; color: #E2E8F0; margin-bottom: 6px;">Core Expertise</div>
-            <div style="font-size: 13px; color: #94A3B8;">Sensor Fusion (EKF) · Real-Time Processing · Predictive Modeling</div>
-          </div>
-          <div style="flex: 1; background: #0F172A; border-radius: 16px; padding: 16px; border-left: 3px solid #8B5CF6;">
-            <div style="font-size: 24px; margin-bottom: 8px;">🚀</div>
-            <div style="font-weight: 600; color: #E2E8F0; margin-bottom: 6px;">Current Focus</div>
-            <div style="font-size: 13px; color: #94A3B8;">On-Device AI · Privacy-Preserving ML · Decentralized Systems</div>
-          </div>
-        </div>
-        <!-- Key Achievement Highlights -->
-        <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 24px;">
-          <span style="background: #1E293B; padding: 4px 12px; border-radius: 20px; font-size: 12px; color: #F59E0B;">
-            🏆 SIH 2025 Winner · ISRO
-          </span>
-          <span style="background: #1E293B; padding: 4px 12px; border-radius: 20px; font-size: 12px; color: #10B981;">
-            📊 Top 10% · IIT Guwahati
-          </span>
-          <span style="background: #1E293B; padding: 4px 12px; border-radius: 20px; font-size: 12px; color: #06B6D4;">
-            ⛓️ Web3 Builder · BuidlGuidl
-          </span>
-        </div>
-        <!-- Philosophy -->
-        <div style="text-align: center; padding: 16px 0 8px 0; border-top: 1px solid #334155;">
-          <em style="color: #94A3B8; font-size: 14px;">"Mathematics as foundation. AI as tool. Impact as the goal."</em>
-        </div>
-        </td>
+        <!-- Main Bio -->
+        <p align="center" style="color: #E2E8F0; font-size: 16px; line-height: 1.8; margin: 32px 0 24px 0; max-width: 800px;">
+          Mathematics & Computing undergraduate at RGIPT, building intelligent systems at the intersection of 
+          <strong style="color: #60A5FA;">mathematical rigor</strong> and <strong style="color: #60A5FA;">applied machine learning</strong>
+        </p>
+       </td>
      </tr>
    </table>
 </div>

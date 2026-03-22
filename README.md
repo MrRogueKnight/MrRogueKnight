@@ -128,8 +128,8 @@
 ## 📊 GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is automatically updated by GitHub Actions -->
-<!-- Your latest GitHub activity will appear here -->
+1. 🎉 Merged PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
+2. 💪 Opened PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
 <!--END_SECTION:activity-->
 
 *[Updates every 30 minutes — shows issues, pull requests, comments, and releases]*

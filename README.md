@@ -185,6 +185,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRogueKnight&theme=react-dark&bg_color=0F172A&hide_border=true&area=true&area_color=3B82F6&line=60A5FA&point=FFFFFF&height=220" width="100%"/>
 </div>
 
+
 ---
 
 ## 📝 Writing
@@ -216,6 +217,17 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Mathematics%20is%20the%20language%20with%20which%20God%20has%20written%20the%20universe&author=Galileo%20Galilei"/>
 </div>
+
+---
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Readme Quote"></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrRogueKnight/MrRogueKnight/output/snake.svg" alt="Snake animation"/>
+</p>
+
+
+---
 
 <div align="center">
   <br/>

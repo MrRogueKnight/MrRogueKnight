@@ -132,8 +132,8 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
-2. 💪 Opened PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
+1. 🗣 Commented on [#2945](https://github.com/mandiant/capa/issues/2945#issuecomment-4109068902) in [mandiant/capa](https://github.com/mandiant/capa)
+2. 🎉 Merged PR [#1](https://github.com/MrRogueKnight/MrRogueKnight/pull/1) in [MrRogueKnight/MrRogueKnight](https://github.com/MrRogueKnight/MrRogueKnight)
 <!--END_SECTION:activity-->
 
 <div align="center">

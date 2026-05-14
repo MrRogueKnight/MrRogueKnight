@@ -124,8 +124,8 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2962](https://github.com/mandiant/capa/pull/2962#issuecomment-4111074626) in [mandiant/capa](https://github.com/mandiant/capa)
-2. 💪 Opened PR [#2962](https://github.com/mandiant/capa/pull/2962) in [mandiant/capa](https://github.com/mandiant/capa)
+1. 🎉 Merged PR [#3](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation/pull/3) in [MrRogueKnight/arima-stock-forecasting-and-performance-evaluation](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation)
+2. 💪 Opened PR [#3](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation/pull/3) in [MrRogueKnight/arima-stock-forecasting-and-performance-evaluation](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation)
 <!--END_SECTION:activity-->
 
 <div align="center">

@@ -124,8 +124,8 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation/pull/3) in [MrRogueKnight/arima-stock-forecasting-and-performance-evaluation](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation)
-2. 💪 Opened PR [#3](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation/pull/3) in [MrRogueKnight/arima-stock-forecasting-and-performance-evaluation](https://github.com/MrRogueKnight/arima-stock-forecasting-and-performance-evaluation)
+1. 🎉 Merged PR [#2](https://github.com/MrRogueKnight/FinAnalytics/pull/2) in [MrRogueKnight/FinAnalytics](https://github.com/MrRogueKnight/FinAnalytics)
+2. 💪 Opened PR [#2](https://github.com/MrRogueKnight/FinAnalytics/pull/2) in [MrRogueKnight/FinAnalytics](https://github.com/MrRogueKnight/FinAnalytics)
 <!--END_SECTION:activity-->
 
 <div align="center">

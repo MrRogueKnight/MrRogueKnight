@@ -124,8 +124,8 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MrRogueKnight/FinAnalytics/pull/2) in [MrRogueKnight/FinAnalytics](https://github.com/MrRogueKnight/FinAnalytics)
-2. 💪 Opened PR [#2](https://github.com/MrRogueKnight/FinAnalytics/pull/2) in [MrRogueKnight/FinAnalytics](https://github.com/MrRogueKnight/FinAnalytics)
+1. 🎉 Merged PR [#2](https://github.com/MrRogueKnight/Nutrition-Health-Survey-Age-Prediction/pull/2) in [MrRogueKnight/Nutrition-Health-Survey-Age-Prediction](https://github.com/MrRogueKnight/Nutrition-Health-Survey-Age-Prediction)
+2. 💪 Opened PR [#2](https://github.com/MrRogueKnight/Nutrition-Health-Survey-Age-Prediction/pull/2) in [MrRogueKnight/Nutrition-Health-Survey-Age-Prediction](https://github.com/MrRogueKnight/Nutrition-Health-Survey-Age-Prediction)
 <!--END_SECTION:activity-->
 
 <div align="center">
